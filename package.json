@@ -1,0 +1,22 @@
+{
+  "name": "supply-chain-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Demo Next.js app with intentionally outdated dependencies, used to generate example scan results for a software supply chain security tools comparison article.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.0.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "axios": "0.21.0",
+    "lodash": "4.17.15",
+    "minimist": "1.2.5",
+    "node-fetch": "2.6.0",
+    "jsonwebtoken": "8.5.1",
+    "moment": "2.29.1"
+  }
+}
